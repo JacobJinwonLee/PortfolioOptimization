@@ -1,6 +1,6 @@
 # PortfolioOptimization
 
-### I have implemented portfolio optimization methods. 
+This repository is about portfolio optimization methods. 
 
 ### List
 
