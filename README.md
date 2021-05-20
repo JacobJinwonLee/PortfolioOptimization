@@ -8,3 +8,4 @@ This repository is about portfolio optimization methods.
 - Risk Parity - All Weather
 - Risk Parity with Target Volatility
 - Maximum Diversification
+- Mean-Variance Optimization, Mimimum Volatility, Efficient Frontier
