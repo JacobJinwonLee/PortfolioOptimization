@@ -9,3 +9,4 @@ This repository is about portfolio optimization methods.
 - Risk Parity with Target Volatility
 - Maximum Diversification
 - Mean-Variance Optimization, Mimimum Volatility, Efficient Frontier
+- Hierarchical Risk Parity (HRP)
